@@ -1,18 +1,18 @@
 ---
-title: Why does the app ask for my phone number?
-category: other
+judul: Mengapa aplikasi meminta nomor telepon saya?
+kategori: lainnya
 ---
 
-## Why we ask
+## Kenapa kami bertanya
 
-LBRY controls [millions of credits](/faq/credit-policy) that it wants to get into the hands of content creators and content consumers.
+LBRY mengontrol [jutaan kredit] (/ faq / kebijakan-kredit) yang ia inginkan masuk ke tangan pembuat konten dan konsumen konten.
 
-Unfortunately, when running a rewards program, people may abuse it.
+Sayangnya, saat menjalankan program hadiah, orang mungkin menyalahgunakannya.
 
-Phone number approval provides an alternative method for LBRY users to participate in the [rewards](/faq/rewards) program.
+Persetujuan nomor telepon memberikan metode alternatif bagi pengguna LBRY untuk berpartisipasi dalam program [hadiah] (/ faq / hadiah).
 
-## What if my phone number isn't working?
-Certain regions, prepaid services, and VOIP numbers will be blocked from phone verifications combat abuse. If you are having trouble with getting a phone number accepted, please see one of the [other approval methods](/faq/identity-requirements).
+## Bagaimana jika nomor telepon saya tidak berfungsi?
+Wilayah tertentu, layanan prabayar, dan nomor VOIP akan diblokir dari verifikasi memerangi penyalahgunaan telepon. Jika Anda mengalami masalah dalam menerima nomor telepon yang diterima, silakan lihat salah satu [metode persetujuan lain] (/ faq / persyaratan identitas).
 
-## What if LBRY says my phone number already exists?
-This usually means that there is another LBRY account/email address that's already associated with that number. If you are changing email addresses and need to link your accounts or you believe this is an error, please [reach out to us](mailto:help@lbry.com).
+## Bagaimana jika LBRY mengatakan nomor telepon saya sudah ada?
+Ini biasanya berarti bahwa ada akun / alamat email LBRY lain yang sudah dikaitkan dengan nomor itu. Jika Anda mengubah alamat email dan perlu menautkan akun Anda atau Anda yakin ini adalah kesalahan, silakan [hubungi kami] (mailto: help@lbry.com).
